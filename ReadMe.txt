@@ -1,3 +1,5 @@
+HTML 5, CSS 3 support for Internet Explorer 7-9
+
 HTML 5:
 - HTML 5 BoilerPlate (HTML & CSS template)
 - Modernizr (feature detection)
